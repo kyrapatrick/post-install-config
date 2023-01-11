@@ -31,7 +31,7 @@ Outline post-install configuration of the open-source help desk ticketing system
 <img src="https://i.imgur.com/Humsy1v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Roles setting. Roles describe permissions granted to Agents in association with the Deptartment to which they have access.
+Configure Roles setting. Roles (Supreme Admin) describe permissions granted to Agents in association with the Deptartment to which they have access.
 </p>
 <br />
 
