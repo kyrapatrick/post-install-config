@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-Outline the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+Outline post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -31,7 +31,7 @@ Outline the post-install configuration of the open-source help desk ticketing sy
 <img src="https://i.imgur.com/Humsy1v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Roles. Roles describe permissions granted to Agents in association with the Deptartment to which they have access.
+Configure Roles setting. Roles describe permissions granted to Agents in association with the Deptartment to which they have access.
 </p>
 <br />
 
@@ -39,7 +39,7 @@ Configure Roles. Roles describe permissions granted to Agents in association wit
 <img src="https://i.imgur.com/hq08qj9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
 <p>
-Configure Agent named Jane Doe. An agent is the help desk professional that is given access to respond and resolve tickets.
+Configure Agent setting named Jane Doe. Agent is the help desk professional that is given access to respond and resolve tickets.
 </p>
 <br />
 
@@ -47,13 +47,13 @@ Configure Agent named Jane Doe. An agent is the help desk professional that is g
 <img src="https://i.imgur.com/EFDrElQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure User named Karen Karen. Users login to create tickets or check ticket's status. Users are often associated with their email address as a unique identifier.
+Configure User setting named Karen Karen. Users login to create tickets or check ticket's status. Users are often associated with their email address as a unique identifier.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/AuG45yo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Service Level Agreements (SLA). SLA Plans provide a length of time in which help desk administrators expect tickets to be completed.
+Configure Service Level Agreements settings (SLA). SLA Plans provide a length of time in which help desk administrators expect tickets to be completed.
 </p>
 <br />
