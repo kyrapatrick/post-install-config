@@ -39,7 +39,7 @@ Configure Roles setting. Roles describe permissions granted to Agents in associa
 <img src="https://i.imgur.com/hq08qj9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
 <p>
-Configure Agent setting named Jane Doe. Agent is the help desk professional that is given access to respond and resolve tickets.
+Configure an Agent setting named Jane Doe. Agent is the help desk professional that is given access to respond and resolve tickets.
 </p>
 <br />
 
@@ -47,7 +47,7 @@ Configure Agent setting named Jane Doe. Agent is the help desk professional that
 <img src="https://i.imgur.com/EFDrElQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure User setting named Karen Karen. Users login to create tickets or check ticket's status. Users are often associated with their email address as a unique identifier.
+Configure a User setting named Karen Karen. Users login to create tickets or check ticket's status. Users are often associated with their email address as a unique identifier.
 </p>
 <br />
 <p>
