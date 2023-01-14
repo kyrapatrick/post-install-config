@@ -7,8 +7,7 @@ Outline post-install configuration of the open-source help desk ticketing system
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=l_8D6WW5Qq8&list=PL6PAxsZ-D6WxQ3ntuVH96kMNwz4JB5wIR&index=2)
-
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=Ryehk2APqc0)
 
 
 
